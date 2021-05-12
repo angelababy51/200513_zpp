@@ -7,7 +7,7 @@
     "fsevents": "^1.2.13",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
-    "swiper": "^5.3.8",
+    "swiper": "^6.5.1",
     "vue-router": "^3.0.7",
     "webpack": "^4.43.0"
   },
